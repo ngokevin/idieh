@@ -1,0 +1,2 @@
+site_title: HK
+url_pattern: "/{category}/{slug}/{page}/"
